@@ -20,14 +20,14 @@ body {
 }
 .box-main {
     display: flex;
-    margin-top: 250px;
+    margin-top: 225px;
 }
 .box-main span {
     font-size: 10vw;
     text-align: center;
-    background: rgba(255, 255, 255, 0.1);
-    padding: 5px 10px ;
+    background: rgba(255, 255, 255, 0.2);
     color: white;
+    padding: 0 25px;
     border: 2px solid white;
     border-radius: 20px;
 }
