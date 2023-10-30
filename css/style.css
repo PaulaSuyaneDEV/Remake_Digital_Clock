@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-image: url(../img/pexels-oleksandr-p-376368.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.sub-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+.box-main {
+    display: flex;
+    margin-top: 250px;
+}
+.box-main span {
+    font-size: 10vw;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 5px 10px ;
+    color: white;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+.box {
+    padding: 10px;
+}
